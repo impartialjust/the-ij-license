@@ -11,8 +11,10 @@ protected by applicable laws and this license.
   the work partly.
   c. publication: Any txt, picture, video, audio, or electromagnetic record publish by anyone (not limited to individuals or organizations) and must be validate 
   to the section2.
-  d. You: You means any individual who want to use any publication under this license.
+  d. You: (Your, Yours means the same things as You) You means any individual who want to use any publication under this license.
   e. digital rights management: Also known as technological protection measures. Any method to protect a publication.
+  f. applicable law: The law protect this publication in author's territory, not your territory.
+Whether is in capital form or in small letter should means the same things.
 2. Scope of publication:
   a. Must be work by human, included but not limited to a machine translate, or an ASCII art generation.
   b. Must be expressed; this license does not protect a kind of ideas unless it's been written down or recorded.
@@ -33,6 +35,9 @@ and unchangeable decision, once you do this you cannot revoke this decision, if 
 
 5. The manner of using:
 You must not insult to the author and the publication. If author feel being offended, author reserves the right to sue you and stop giving the right to you and your right using this license will be canceled.
+
+6. Limit of this licenses:
+This license only protect the copyright until the applicable law's copyright protect limitation ends, then the publication will be release to the public domain.
 
 6. Disclaimer:
 The author of this licenses (also known as "impartial just") do not have any responsibilities to protect the author of publication and the publications. Impartial just
