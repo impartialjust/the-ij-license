@@ -37,7 +37,7 @@ and unchangeable decision, once you do this you cannot revoke this decision, if 
 You must not insult to the author and the publication. If author feel being offended, author reserves the right to sue you and stop giving the right to you and your right using this license will be canceled.
 
 6. Limit of this licenses:
-This license only protect the copyright until the applicable law's copyright protect limitation ends, then the publication will be release to the public domain.
+This license only protect the copyright until the applicable law's copyright protect limitation ends, then the publication will be release to the public domain. Also if the publication is trademark, the author have right to limit your use to the trademark.
 
 6. Disclaimer:
 The author of this licenses (also known as "impartial just") do not have any responsibilities to protect the author of publication and the publications. Impartial just
