@@ -1,5 +1,5 @@
 Ij licenses
-Version 0.5.5, Fed. 2022
+Version 0.5.5, Aug. 2021
 ©<year> <author> all right reserved
 
 The publication (see the definition below) is published under this license. This publication is owned by the author. And the author reserved the right. This publication is
@@ -39,10 +39,13 @@ You must not insult the author and the publication. If the author feels being of
 6. Limit of this license:
 This license only protects the copyright until the applicable law's copyright protection limitation ends, then the publication will be released to the public domain. Also if the publication is a trademark, the author has the right to limit your use of the trademark.
 
-6. Disclaimer:
+7. Upgrading the license:
+The copyright owner has the right to choose whether to upgrade this license to a newer version or not. This license will not automatically upgrade itself. If the copyright owner doesn't want to upgrade the license. The old version will still work. A newer license will and must be compatible with the older version.
+
+8. Disclaimer:
 The author of this license (also known as "impartial just") does not have any responsibilities to protect the author of the publication and the publications. Impartial just
 is not a lawyer and does not provide legal service or legal advice. Impartial just cannot promise any service or be responsible for any illegal uses. If you are going to
-use this license you must respond to your own publication, Impartial just doesn't help you with using this license.
+use this license you must respond to your publication, Impartial just doesn't help you with using this license.
 
 Publication: <name of publication>
 Author: <Author>
